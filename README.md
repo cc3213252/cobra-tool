@@ -6,7 +6,7 @@
 
 ## 安装工具
 
-sudo go install github.com/spf13/cobra-cli@latest  
+go install github.com/spf13/cobra-cli@latest  
 
 ## 建项目
 
