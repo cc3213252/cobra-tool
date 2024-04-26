@@ -10,7 +10,7 @@ sudo go install github.com/spf13/cobra-cli@latest
 
 ## 建项目
 
-go mod init cobra_tools  
+go mod init query  
 go get github.com/spf13/cobra@latest  
 
 ## 使用
